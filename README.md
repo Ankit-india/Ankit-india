@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Ankit Kumar
 - 👀 I’m interested in Software Development role
-- 🌱 I’m currently enrolled in B.Tech CSE 4th year
+- 🌱 I’m Fresher 2023 grad
 - 💞️ I’m looking for an opportunity as an SDE role
 
 <!---
