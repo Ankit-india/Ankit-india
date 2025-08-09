@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ankitku07265897" target="blank"><img src="https://img.shields.io/twitter/follow/ankitku07265897?logo=twitter&style=for-the-badge" alt="ankitku07265897" /></a> </p>
 
-- 🔭 I’m currently working on **CE Info System (MapMyIndia)**
+- 🔭 I’m currently working in **CE Info System (MapMyIndia)**
 
 - 🌱 I’m currently learning **Machine Learing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ankit-india?tab=repositories](https://github.com/Ankit-india?tab=repositories)
 
-- 💬 Ask me about **Java, spring boot**
+- 💬 Ask me about **Java, Spring Boot Microservices**
 
 - 📫 How to reach me **ankitkr00.india@gmail.com**
 
