@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankitku07265897" target="blank"><img src="https://img.shields.io/twitter/follow/ankitku07265897?logo=twitter&style=for-the-badge" alt="ankitku07265897" /></a> </p>
 
-- 🔭 I’m currently working on **Modifyz**
+- 🔭 I’m currently working on **CE Info System (MapMyIndia)**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Machine Learing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ankit-india?tab=repositories](https://github.com/Ankit-india?tab=repositories)
 
